@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/figures-module/figures-module.iml" filepath="$PROJECT_DIR$/figures-module/figures-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/global-module/global-module.iml" filepath="$PROJECT_DIR$/global-module/global-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators-module/operators-module.iml" filepath="$PROJECT_DIR$/operators-module/operators-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools-module/tools-module.iml" filepath="$PROJECT_DIR$/tools-module/tools-module.iml" />
+    </modules>
+  </component>
+</project>
